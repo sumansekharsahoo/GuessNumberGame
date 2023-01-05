@@ -1,5 +1,5 @@
 # Guess-Number-Game
-<My first project using JavaScript>
+-My first project using JavaScript
 
 About Game:
 The player has to guess a number (btw 1-20) that the system has generated randomly. On every unsuccessful guess, the user will be told if:
