@@ -11,7 +11,7 @@ On every wrong guess, 1 pt will be decducted. The player can play the game multi
 
 About Code:
 
-I have used JavaScript to manipulate the DOM elements-
+I have used JavaScript to handle click events, selecting and manipulate the DOM elements-
 (i) Message Displayed: "Too Low!"/"Too high!"/"Start guessing..."
 (ii) background-color: "black"/"green"
 (iii) score: deducted by 1 on every wrong guess.
