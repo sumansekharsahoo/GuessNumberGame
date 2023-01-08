@@ -1,5 +1,5 @@
 # Guess Number Game
--page-link: https://sumansekharsahoo.github.io/Guess-Number-Game/                                                                                                         
+-page-link: https://sumansekharsahoo.github.io/GuessNumberGame/                                                                                                         
 -My first project using JavaScript
 
 About Game:
